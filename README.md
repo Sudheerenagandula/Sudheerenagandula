@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">Hi 👋! I'm Sudheer and I'm a Hyderabad, India, from India</h2>
+<h2 align="left">Hi 👋! I'm Sudheer from Hyderabad, India</h2>
 
 ###
 
